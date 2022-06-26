@@ -3,3 +3,4 @@ Making edit to this file via git command prompt
 Changed the first file in gitlab UI
 Cleanedup the conflicts and commiting the file
 Adding more content via gitlab UI
+Adding more contents via gitlab cmd
