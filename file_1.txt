@@ -1,2 +1,5 @@
 This is the my first file
 Making edit to this file via git command prompt
+Changed the first file in gitlab UI
+Cleanedup the conflicts and commiting the file
+ 
